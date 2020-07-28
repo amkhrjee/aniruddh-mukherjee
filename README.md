@@ -13,5 +13,5 @@ More about me -
 - 💼 I'm looking to collaborate on interesting projects. I'm open for hire too.
 - 💬 Ask me about: Web Development, UI Design
 - 📫 How to reach me: [aniruddh.mukherji](https://www.instagram.com/aniruddh.mukherji/)
-- ⚡ Fun Fact: I'm a big fan of typography and RPGs.
 - 📄 Read my blogs: [Aniruddh's Blog](https://www.aniruddh.hashnode.dev)
+- ⚡ Fun Fact: I'm a big fan of typography and RPGs.
