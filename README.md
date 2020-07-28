@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**aniruddh-mukherjee/aniruddh-mukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/aniruddh-mukherjee/aniruddh-mukherjee.svg)](http://hits.dwyl.com/aniruddh-mukherjee/aniruddh-mukherjee)
 
-Here are some ideas to get you started:
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists. - Eric Hoffer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+More about me - 
+
+- 💻 I'm currently working on a series of Full Stack projects with React, Node and MongoDB.
+- 📒 I'm exploring other frontend frameworks and backend technologies while brushing up my DS & Algo skills.
+- 👨🏻‍🦱 I believe in being a generalist.
+- 💼 I'm looking to collaborate on interesting projects. I'm open for hire too.
+- 💬 Ask me about: Web Development, UI Design
+- 📫 How to reach me: [aniruddh.mukherji](https://www.instagram.com/aniruddh.mukherji/)
+- ⚡ Fun Fact: I'm a big fan of typography and RPGs.
