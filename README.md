@@ -11,7 +11,7 @@ More about me -
 - 📒 I'm exploring other frontend frameworks and backend technologies while brushing up my DS & Algo skills.
 - 👨🏻‍🦱 I believe in being a generalist.
 - 💼 I'm looking to collaborate on interesting projects. I'm open for hire too.
-- 💬 Ask me about: Web Development, UI Design
+- 💬 Ask me about: Web Development, UI Design, Productivity
 - 📫 How to reach me: [aniruddh.mukherji](https://www.instagram.com/aniruddh.mukherji/)
 - 📄 Read my blogs: [Aniruddh's Blog](https://aniruddh.hashnode.dev/)
 - ⚡ Fun Fact: I'm a big fan of typography and RPGs.
