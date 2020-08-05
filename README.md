@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/aniruddh-mukherjee/aniruddh-mukherjee.svg)](http://hits.dwyl.com/aniruddh-mukherjee/aniruddh-mukherjee)
-
 > In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists. - Eric Hoffer
 
 
